@@ -3,3 +3,4 @@
 ## Door lock 
 ## Moisturetester
 ## serial pass
+## receive temperature and humidity from SDA-SDL ports
